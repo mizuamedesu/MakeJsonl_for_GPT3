@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MakeJsonl_for_GPT3",
+	"Description": "This plug-in was created to create fine tuning data for GPT3.Therefore, \"prompt\" and \"completion\" can be set.It is created in jsonl format.",
+	"Category": "Other",
+	"CreatedBy": "aoharu",
+	"CreatedByURL": "https://twitter.com/aoharuisgod",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MakeJsonl_for_GPT3",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}

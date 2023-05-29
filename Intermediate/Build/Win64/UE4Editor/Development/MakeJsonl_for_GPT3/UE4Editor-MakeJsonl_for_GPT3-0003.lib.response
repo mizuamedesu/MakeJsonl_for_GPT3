@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MakeJsonl_for_GPT3-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\PLUGINTEST\Intermediate\Build\Win64\PLUGINTESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\PLUGINTEST\Plugins\MakeJsonl_for_GPT3\Intermediate\Build\Win64\UE4Editor\Development\MakeJsonl_for_GPT3\Module.MakeJsonl_for_GPT3.cpp.obj"
+"E:\PLUGINTEST\Plugins\MakeJsonl_for_GPT3\Intermediate\Build\Win64\UE4Editor\Development\MakeJsonl_for_GPT3\Module.MakeJsonl_for_GPT3.gen.cpp.obj"
+"E:\PLUGINTEST\Plugins\MakeJsonl_for_GPT3\Intermediate\Build\Win64\UE4Editor\Development\MakeJsonl_for_GPT3\Default.rc2.res"
+/OUT:"E:\PLUGINTEST\Plugins\MakeJsonl_for_GPT3\Intermediate\Build\Win64\UE4Editor\Development\MakeJsonl_for_GPT3\UE4Editor-MakeJsonl_for_GPT3-0003.lib"

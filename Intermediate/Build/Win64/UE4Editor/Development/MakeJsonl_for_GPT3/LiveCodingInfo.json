@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MakeJsonl_for_GPT3.cpp.obj": [
+			"MakeJsonl_for_GPT3.cpp.obj",
+			"MakeJsonl_for_GPT3BPLibrary.cpp.obj"
+		],
+		"Module.MakeJsonl_for_GPT3.gen.cpp.obj": [
+			"MakeJsonl_for_GPT3.init.gen.cpp.obj",
+			"MakeJsonl_for_GPT3BPLibrary.gen.cpp.obj"
+		]
+	}
+}
